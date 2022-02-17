@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:backgroundTint="@color/backgroundBorder"
+    app:cardCornerRadius="@dimen/_10sdp">
+    <RadioGroup
+        android:id="@+id/changeColor_rg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_gravity="center"
+        android:orientation="horizontal"
+        android:layout_margin="@dimen/_10sdp"
+        >
+
+        <RadioButton
+            android:id="@+id/changeToRedColor_rb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:background="@drawable/radio_button_red"
+            android:layout_margin="@dimen/_4sdp"
+            app:useMaterialThemeColors="false" />
+
+        <RadioButton
+            android:id="@+id/changeToYellowColor_rb"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:background="@drawable/radio_button_yellow"
+            android:layout_margin="@dimen/_4sdp"
+            app:useMaterialThemeColors="false" />
+
+        <RadioButton
+            android:id="@+id/changeToBlueColor_rb"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:background="@drawable/radio_button_blue"
+            android:layout_margin="@dimen/_4sdp"
+            android:gravity="center|right"
+            app:useMaterialThemeColors="false" />
+    </RadioGroup>
+</com.google.android.material.card.MaterialCardView>

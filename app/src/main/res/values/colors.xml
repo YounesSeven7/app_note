@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+        <color name="primaryColor">#0077b6</color>
+        <color name="primaryLightColor">#56a6e9</color>
+        <color name="primaryDarkColor">#00FFFFFF</color>
+        <color name="secondaryColor">#48cae4</color>
+        <color name="secondaryLightColor">#84fdff</color>
+        <color name="secondaryDarkColor">#0099b2</color>
+        <color name="white">#ffffff</color>
+        <color name="black">#000000</color>
+        <color name="backgroundColor">#ffffff</color>
+
+        <color name="red">#dc544b</color>
+        <color name="blue">#e1f5fd</color>
+        <color name="yellow">#fec130</color>
+
+        <color name="cardViewStrokeColor">#F5373131</color>
+        <color name="cardViewSelectStrokeColor">#154daa</color>
+        <color name="backgroundBorder">#eef3fc</color>
+        <color name="color_text_icon">#000000</color>
+        <color name="color_circle">#d3e3fd</color>
+        <color name="drawer_color">#f6f7fb</color>
+        <color name="second_color_settings_activity">#1358C6</color>
+
+        
+
+
+</resources>

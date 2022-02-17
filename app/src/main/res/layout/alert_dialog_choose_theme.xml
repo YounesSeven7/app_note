@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RadioGroup
+        android:id="@+id/rg_theme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_8sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RadioButton
+            android:id="@+id/rb_light"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/light"
+            android:textColor="@color/color_text_icon"
+            android:buttonTint="@color/second_color_settings_activity"
+            android:checked="true"/>
+
+        <RadioButton
+            android:id="@+id/rb_dark"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/dark"
+            android:textColor="@color/color_text_icon"
+            android:buttonTint="@color/second_color_settings_activity"
+            />
+
+        <RadioButton
+            android:id="@+id/rb_systemDefault"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/system_default"
+            android:textColor="@color/color_text_icon"
+            android:buttonTint="@color/second_color_settings_activity"/>
+    </RadioGroup>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <data>
+        <variable
+            name="note"
+            type="com.example.noteapp.data.database.NoteEntity" />
+    </data>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/noteItem_cardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/_5sdp"
+        app:cardCornerRadius="@dimen/_5sdp"
+        app:cardElevation="@dimen/_5sdp"
+        app:strokeColor="@color/cardViewStrokeColor"
+        app:strokeWidth="0.5dp"
+        >
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/noteItem_cl_containers"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            set_note_background_color="@{note.color}"
+            >
+
+            <TextView
+                android:id="@+id/noteItem_tv"
+                set_note_text_color="@{note.color}"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:gravity="top"
+                android:padding="@dimen/_3sdp"
+                android:text="@{note.text}"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintBottom_toTopOf="@+id/checkboxNoteItem_cb"
+                />
+
+            <com.google.android.material.checkbox.MaterialCheckBox
+                android:id="@+id/checkboxNoteItem_cb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:buttonTint="@color/black"
+                android:checked="@{note.isChecked()}"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.03"
+                app:layout_constraintStart_toStartOf="parent" />
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </com.google.android.material.card.MaterialCardView>
+</layout>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق الملاحضات</string>
+    <string name="add_note_and_select_type_and_color">"يمكنك إضاقة ملاحظة إلى القائمة و إختيار نوع ولون الملاحضة ."</string>
+    <string name="add">إضافة</string>
+    <string name="are_you_sure">هل أنت متأكد من الرجوع؟</string>
+    <string name="explain">هناك نص ستتم إزالته عند العودة من هذه الصفحة</string>
+    <string name="no_text">لا يمكنك إضافة ملاحضة والنص فراغ , أضف النص أولا</string>
+    <string name="type">النوع</string>
+    <string name="colors">الألوان</string>
+    <string name="search_your_notes">إبحث عن ملاحضتك</string>
+    <string name="just_text">نص فقط</string>
+    <string name="check_box">عنصر التحقق</string>
+    <string name="image">الصور</string>
+    <string name="make_a_copy">عمل نسخة</string>
+    <string name="you_can_not_send">يمكنك إرسال ملاحضة واحدة فقط</string>
+    <string name="trash">قمامة</string>
+    <string name="settings">الإعدادات</string>
+    <string name="how_to_use_it">كيفة الإستعمال</string>
+    <string name="display_options">إعدادات العرض</string>
+    <string name="light">مضيئ</string>
+    <string name="dark">مضلم</string>
+    <string name="system_default">على حسب النضام</string>
+    <string name="Note">الملاحضة</string>
+    <string name="change">تغير</string>
+    <string name="take_image">"take image first "</string>
+    <string name="theme">الثيم</string>
+    <string name="choose_theme">إختر الثيم</string>
+    <string name="arabic">العربية</string>
+    <string name="english">English</string>
+    <string name="language">اللغة</string>
+    <string name="there_is_no_note">لا توجد ملاحضات</string>
+    <string name="there_is_no_result">لا توجد نتائج</string>
+    <string name="are_you_sure_about_delete">are you sure aboute delete ?</string>
+    <string name="are_you_sure_about_delete_message">you can not find this note if you delete .</string>
+
+    <string-array name="choose_theme">
+        <item>مضيئ</item>
+        <item>مضلم</item>
+        <item>على حسب النضام</item>
+    </string-array>
+</resources>

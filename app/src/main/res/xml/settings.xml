@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/system_default"
+        android:textColor="@color/color_text_icon">
+        <ListPreference
+            android:defaultValue="@string/system_default"
+            android:summary="@string/system_default"
+            android:entries="@array/choose_theme"
+            android:entryValues="@array/choose_theme"
+            android:key="@string/key_them_list"
+            android:title="List preference" />
+    </PreferenceCategory>
+</PreferenceScreen>

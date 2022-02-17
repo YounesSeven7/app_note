@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="160"
+    android:viewportHeight="160">
+
+    <path
+        android:fillColor="@color/color_circle"
+        android:pathData="M80 0A80 80 0 1 0 80 160 80 80 0 1 0 80 0z"/>
+    <path
+        android:fillColor="@color/color_text_icon"
+        android:pathData="M62 62h36v36H62V62Z"/>
+    <path
+        android:fillColor="@color/color_circle"
+        android:pathData="M98 94V66c0-2.2-1.8-4-4-4H66c-2.2 0-4 1.8-4 4v28c0 2.2 1.8 4 4 4h28c2.2 0 4-1.8 4-4ZM73 83l5 6.02L85 80l9 12H66l7-9Z"/>
+    <path
+        android:fillColor="@color/color_circle"
+        android:pathData="M62 94H66V98H62z"/>
+    <path
+        android:fillColor="@color/color_circle"
+        android:pathData="M62 94H66V98H62z"/>
+    <path
+        android:fillColor="@color/color_circle"
+        android:pathData="M62 94H66V98H62z"/>
+    <path
+        android:fillColor="@color/color_circle"
+        android:pathData="M94 94H98V98H94z"/>
+    <path
+        android:fillColor="@color/color_circle"
+        android:pathData="M94 94H98V98H94z"/>
+    <path
+        android:fillColor="@color/color_circle"
+        android:pathData="M94 94H98V98H94z"/>
+    <path
+        android:fillColor="@color/color_circle"
+        android:pathData="M94 62H98V66H94z"/>
+    <path
+        android:fillColor="@color/color_circle"
+        android:pathData="M94 62H98V66H94z"/>
+    <path
+        android:fillColor="@color/color_circle"
+        android:pathData="M94 62H98V66H94z"/>
+    <path
+        android:fillColor="@color/color_circle"
+        android:pathData="M62 62H66V66H62z"/>
+    <path
+        android:fillColor="@color/color_circle"
+        android:pathData="M62 62H66V66H62z"/>
+    <path
+        android:fillColor="@color/color_circle"
+        android:pathData="M62 62H66V66H62z"/>
+    <path
+        android:strokeColor="@color/color_circle"
+        android:strokeWidth="1"
+        android:pathData="M62.5 62.5H97.5V97.5H62.5z"/>
+    <path
+        android:strokeColor="@color/color_text_icon"
+        android:strokeWidth="4"
+        android:pathData="M62 64c0-1.1 0.9-2 2-2h32c1.1 0 2 0.9 2 2v32c0 1.1-0.9 2-2 2h-32c-1.1 0-2-0.9-2-2z"/>
+</vector>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/agenda.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/backgroun_border.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/background_border.xml" value="0.21770833333333334" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/blue_circle.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/button_add_activity.xml" value="0.12664473684210525" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/cardview_border.xml" value="0.24427083333333333" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/checkbox_circle.xml" value="0.4" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/checked_check_box.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/checked_checkbox_circle.xml" value="0.2734375" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/checked_circle_blue.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/checked_circle_color_off.xml" value="0.2" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/checked_circle_red.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/checked_circle_yellow.xml" value="0.2484375" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/checked_image_circle.xml" value="0.2734375" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/checked_just_text_circle.xml" value="0.3609375" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/checked_justtext_circle.xml" value="0.2734375" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/checked_note.xml" value="0.54140625" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/checked_photo.xml" value="0.54140625" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/circle_return_acitivty_to_fab.xml" value="0.3609375" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/grid_view.xml" value="0.3609375" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.24461538461538462" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2734375" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.2734375" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/ic_baseline_content_copy_24.xml" value="0.54140625" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/ic_baseline_dehaze_24.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.54140625" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/ic_baseline_help_24.xml" value="0.54140625" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.54140625" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.54140625" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/ic_baseline_view_agenda_24.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/ic_outline_color_lens_24.xml" value="0.54140625" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/ic_outline_delete_24.xml" value="0.54140625" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/ic_photo.xml" value="0.2484375" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/image_circle.xml" value="0.4" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/jasttext_circle.xml" value="0.3609375" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/radiio_button_checkbox.xml" value="0.2734375" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/radio_button_blue.xml" value="0.2484375" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/radio_button_check_box.xml" value="0.264" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/radio_button_checkbox.xml" value="0.2734375" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/radio_button_color_off.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/radio_button_image.xml" value="0.2734375" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/radio_button_just_text.xml" value="0.2734375" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/radio_button_justtext.xml" value="0.2734375" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/radio_button_note.xml" value="0.2484375" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/radio_button_photo.xml" value="0.54140625" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/radio_button_red.xml" value="0.2484375" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/radio_button_yellow.xml" value="0.2484375" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/select_button_add_activity.xml" value="0.14835526315789474" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/unchecked_check_box.xml" value="0.2" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/unchecked_checkbox_circle.xml" value="0.2734375" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/unchecked_circle_blue.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/unchecked_circle_color_off.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/unchecked_circle_red.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/unchecked_circle_yellow.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/unchecked_image_circle.xml" value="0.3609375" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/unchecked_jast_text_circle.xml" value="0.2734375" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/unchecked_note.xml" value="0.2484375" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/unchecked_photo.xml" value="0.54140625" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/drawable/unselect_button_add_activity.xml" value="0.12664473684210525" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/layout-ar/activity_settings.xml" value="0.16" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/layout-ar/alert_dialog_choose_language.xml" value="0.13157894736842105" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/layout/activity_add_note.xml" value="0.264" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/layout/activity_add_or_change_note.xml" value="0.21776315789473685" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/layout/activity_search_notes.xml" value="0.264" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/layout/activity_settings.xml" value="0.21776315789473685" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/layout/alert_dialog_add_acitivity.xml" value="0.4" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/layout/alert_dialog_change_color.xml" value="0.20631067961165048" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/layout/alert_dialog_choose_language.xml" value="0.176" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/layout/alert_dialog_choose_theme.xml" value="0.21776315789473685" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/layout/dialog_return_without_text.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/layout/fragment_bottom_sheet_dialog.xml" value="0.21776315789473685" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/layout/fragment_main.xml" value="0.176" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/layout/item_check_note.xml" value="0.21776315789473685" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/layout/item_just_text_note.xml" value="0.13519736842105262" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/layout/item_photo_note.xml" value="0.1130464480874317" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/layout/just_note_item.xml" value="0.21776315789473685" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/layout/main_fragment.xml" value="0.27326440177252587" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/layout/nav_header_main.xml" value="0.42597087378640774" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/layout/note_item.xml" value="0.2" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/layout/photo_note_item.xml" value="0.264" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/layout/settings_activity.xml" value="0.5171875" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/layout/test.xml" value="0.11644736842105263" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/menu-v22/search_menu.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/menu/main_delete_update_menu.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/menu/main_menu.xml" value="0.4" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/menu/menu_drawer_activity_main.xml" value="0.5171875" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/menu/search_menu.xml" value="0.264" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/xml/root_preferences.xml" value="0.21776315789473685" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/Project/Note app/app/src/main/res/xml/settings.xml" value="0.21776315789473685" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
