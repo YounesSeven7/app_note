@@ -24,6 +24,7 @@ import com.google.android.material.dialog.MaterialAlertDialogBuilder;
 import java.util.Locale;
 
 public class Settings extends AppCompatActivity {
+
     ActivitySettingsBinding activitySettingsBinding;
     @Override
     protected void onCreate(Bundle savedInstanceState) {

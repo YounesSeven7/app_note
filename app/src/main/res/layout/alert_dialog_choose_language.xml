@@ -39,6 +39,6 @@
             android:layout_height="wrap_content"
             android:text="@string/system_default"
             android:textColor="@color/color_text_icon"
-            android:buttonTint="@color/second_color_settings_activity"/>
+    android:buttonTint="@color/second_color_settings_activity"/>
     </RadioGroup>
-</androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
